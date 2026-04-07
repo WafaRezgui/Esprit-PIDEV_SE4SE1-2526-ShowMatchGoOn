@@ -1,0 +1,11 @@
+# Frontend
+frontend/node_modules/
+frontend/.angular/
+
+# Backend
+backend/target/
+backend/.mvn/
+
+# Environnement
+.env
+*.log
